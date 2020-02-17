@@ -1,2 +1,2 @@
 # hello-world
-"this is reall neat" - Caleb
+"this is really neat" - Caleb
